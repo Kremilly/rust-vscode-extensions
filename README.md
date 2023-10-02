@@ -1,6 +1,6 @@
 # Rust Essentials 🦀
 
-A collection of popular extensions that help you write, test and debug Rust applications in VCode.
+A collection of popular extensions that help you write, test and debug Rust applications in VSCode.
 
 ### Why?
 
