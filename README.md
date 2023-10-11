@@ -17,6 +17,8 @@ We know that VSCode is a powerful and free tool for Rust developers and with the
 | [Rust Doc Viewer](https://marketplace.visualstudio.com/items?itemName=JScearcy.rust-doc-viewer)       | [JScearcy](https://marketplace.visualstudio.com/publishers/JScearcy)                       | No       | Stable  |
 | [Rust Mod Generator](https://marketplace.visualstudio.com/items?itemName=ZhangYue.rust-mod-generator) | [Kamasylvia](https://marketplace.visualstudio.com/publishers/ZhangYue)                     | No       | Stable  |
 | [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)          | [Jun Han](https://marketplace.visualstudio.com/publishers/formulahendry)                   | No       | Stable  |
+| [Rust Playground](https://marketplace.visualstudio.com/items?itemName=ConradLudgate.rust-playground)  | [Conrad Ludgate](https://marketplace.visualstudio.com/publishers/ConradLudgate)            | No       | Stable  |
+| [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)    | [GitKraken](https://gitkraken.com)                                                         | No       | Stable  |
 
 ### License
 
